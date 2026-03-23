@@ -40,6 +40,8 @@ Analyzed the relationship between customer support interactions and cancellation
 
 -   **Finding:** A significant percentage of customers who logged support tickets eventually churned.
 -   _Observation:_ Users with 'Billing' and 'Content' issues churned, while users with 'Technical' issues (like Thabo) sometimes stayed.
+
+  ![case Screenshot](churncase.PNG)
 -   _SQL Concepts Used:_ `JOIN` (Inner Join), `GROUP BY`.
 
 ## 🚀 How to Run
