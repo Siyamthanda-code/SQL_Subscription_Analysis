@@ -30,6 +30,8 @@ The database consists of three normalized tables to ensure data integrity:
 Calculated the percentage of customers who cancelled their subscriptions.
 
 -   **Result:** **42.85%** Churn Rate.
+  
+  ![Churn Screenshot](Churn.PNG)
 -   _SQL Concepts Used:_ `COUNT()`, `NULL` handling, `CAST()` (to calculate precise percentages).
 
 ### 2\. Support Tickets & Churn Correlation
